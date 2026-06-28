@@ -1,0 +1,6 @@
+{
+  "name": "Markdown Editor",
+  "description": "Distraction-free Markdown editor with real-time preview, conflict resolution, offline storage, and cloud syncing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
